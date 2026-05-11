@@ -1,3 +1,6 @@
+Report Links: https://docs.google.com/document/d/1pKsYYavglqk1Mvec84apBUPUA-Ok48tc/edit?usp=drive_link&ouid=118103977541279081890&rtpof=true&sd=true 
+https://docs.google.com/presentation/d/1t83Qs1jtGi7neD8-j7xWeXCypqQpYutN/edit?usp=drive_link&ouid=118103977541279081890&rtpof=true&sd=true
+
 1. PREREQUISITES
 Before running the pipeline, ensure the following are installed on your Ubuntu system:
 
